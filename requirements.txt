@@ -1,0 +1,7 @@
+pandas
+geopandas
+osmnx
+matplotlib
+pyarrow
+jupyter
+requests
